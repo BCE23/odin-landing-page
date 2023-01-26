@@ -120,3 +120,44 @@ li {
   text-align: end;
   font-weight: 700;
 }
+
+.cta-section {
+  padding: 100px 250px;
+}
+
+.cta-background {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #3882f6;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.cta-left {
+  color:#F9FAF8;
+}
+
+.cta-left h3 {
+  font-size: 22px;
+  padding-bottom: 5px;
+}
+
+.cta-right button {
+  background-color: #3882f6;
+  height: 40px;
+  width: 150px;
+  font-size: 18px;
+  color:#F9FAF8;
+  font-weight: 700;
+  border-radius: 10px;
+  border: 2px solid #E5E7EB;
+}
+
+footer {
+  background-color: #1F2937;
+  color:#F9FAF8;
+  padding: 50px;
+  text-align: center;
+}
